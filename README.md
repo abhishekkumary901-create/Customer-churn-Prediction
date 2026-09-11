@@ -6,4 +6,4 @@ This project predicts whether a customer will churn (leave the company) using Te
 
 **Accuracy Achieved: 79.25%**
 **Model Used: Random Forest Classifier**
-**Internship: CodSoft - Data Science**
+**Internship: CodSoft - Machine Learning**
